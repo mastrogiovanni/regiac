@@ -2,8 +2,8 @@
 title: "Assegnazione delle ore di sostegno"
 thumbnailImagePosition: left
 autoThumbnailImage: false
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
-coverImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
+thumbnailImage: /img/lavagna-ore-sostegno2.png
+coverImage: /img/lavagna-ore-sostegno2.png
 metaAlignment: center
 date: 2021-12-21
 categories:

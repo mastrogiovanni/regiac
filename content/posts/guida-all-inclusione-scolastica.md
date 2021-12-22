@@ -2,8 +2,8 @@
 title: Guida all'inclusione scolastica
 thumbnailImagePosition: top
 autoThumbnailImage: false
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
-coverImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
+thumbnailImage: /img/inclusione.png
+coverImage: /img/inclusione.png
 metaAlignment: center
 date: 2021-12-22
 categories:
