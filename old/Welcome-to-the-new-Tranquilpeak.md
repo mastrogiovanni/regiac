@@ -20,10 +20,11 @@ thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750
 coverImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
 metaAlignment: center
 ---
+
 Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.
 <!--more-->
 
-![Tranquilpeak](/img/showcase.png)
+![Tranquilpeak](/img/buca-17122021.jpg)
 
 {{< toc >}}
 
