@@ -17,7 +17,6 @@ showPagination: false
 # Re.G.I.A.C.
 
 Rete Genitori Inclusione Anna Celli (Re.G.I.A.C) vuole essere un punto di incontro per genitori di bambini disabili o in generale con bisogni educativi speciali (BES) frequentanti l’I.C. Anna Celli. 
-
 <!-- more -->
 Siamo dei genitori e come tutti i genitori la cosa che ci sta più a cuore è il benessere dei nostri figli.
 
