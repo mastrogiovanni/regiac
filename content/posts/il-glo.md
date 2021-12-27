@@ -2,8 +2,8 @@
 title: "Il GLO"
 thumbnailImagePosition: left
 autoThumbnailImage: false
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
-coverImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
+thumbnailImage: /img/glo1.png
+coverImage: /img/glo1.png
 metaAlignment: center
 date: 2021-12-21
 categories:

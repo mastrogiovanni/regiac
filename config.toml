@@ -15,7 +15,7 @@
 baseURL = "https://ic-anna-celli.netlify.app/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Genitori per l'Inclusione"
+title = "Re.G.I.A.C."
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
@@ -44,7 +44,7 @@ canonifyurls = true
 # Author
 # ------
 [author]
-  name = "Genitori per l'Inclusione"
+  name = "Re.G.I.A.C."
   # bio = "Entra nel gruppo <a href=''>Whatsapp!</a>"
   # job = ""
   location = "I.C. Anna Celli"
@@ -121,7 +121,7 @@ canonifyurls = true
   # -----------
   # Description
   # -----------
-  description = "Genitori per l'inclusione"
+  description = "Re.G.I.A.C."
 
   # ------------------
   # Syntax highlighter

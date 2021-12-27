@@ -1,6 +1,6 @@
 ---
 title: Guida all'inclusione scolastica
-thumbnailImagePosition: top
+thumbnailImagePosition: left
 autoThumbnailImage: false
 thumbnailImage: /img/inclusione.png
 coverImage: /img/inclusione.png
