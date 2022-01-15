@@ -15,7 +15,7 @@
 baseURL = "https://ic-anna-celli.netlify.app/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Genitori per l'Inclusione"
+title = "Re.Ge.I"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
@@ -44,10 +44,10 @@ canonifyurls = true
 # Author
 # ------
 [author]
-  name = "Genitori per l'Inclusione"
+  name = "Re.Ge.I"
   # bio = "Entra nel gruppo <a href=''>Whatsapp!</a>"
   # job = ""
-  location = "I.C. Anna Celli"
+  # location = "I.C. Anna Celli"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   # gravatarEmail = "thibaud.lepretre@gmail.com"
   # Your profile picture

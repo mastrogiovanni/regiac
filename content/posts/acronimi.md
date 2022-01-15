@@ -2,10 +2,11 @@
 title: "Acronimi"
 thumbnailImagePosition: left
 autoThumbnailImage: false
-thumbnailImage: /img/acronimi.png
-coverImage: /img/acronimi.png
+thumbnailImage: /img/slide_1acronimi.png
+coverImage: /img/slide_1acronimi.png
 metaAlignment: center
 date: 2021-12-20
+showDate: false
 categories:
 - definizioni
 tags:

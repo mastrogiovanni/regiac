@@ -2,10 +2,11 @@
 title: "Assegnazione delle ore di sostegno"
 thumbnailImagePosition: left
 autoThumbnailImage: false
-thumbnailImage: /img/lavagna-ore-sostegno2.png
-coverImage: /img/lavagna-ore-sostegno2.png
+thumbnailImage: /img/lavagna-ore-sostegno2-1280x720.png
+coverImage: /img/lavagna-ore-sostegno2-1280x720.png
 metaAlignment: center
 date: 2021-12-21
+showDate: false
 categories:
 - sostegno
 tags:

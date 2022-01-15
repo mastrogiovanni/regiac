@@ -3,9 +3,10 @@ title: "Il PEI"
 thumbnailImagePosition: left
 autoThumbnailImage: false
 thumbnailImage: /img/pei.png
-coverImage: /img/pei.png
+coverImage: /img/PEI.png
 metaAlignment: center
 date: 2021-12-21
+showDate: false
 categories:
 - definizioni
 tags:

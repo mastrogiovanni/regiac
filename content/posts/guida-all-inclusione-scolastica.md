@@ -1,11 +1,12 @@
 ---
 title: Guida all'inclusione scolastica
-thumbnailImagePosition: top
+thumbnailImagePosition: left
 autoThumbnailImage: false
 thumbnailImage: /img/inclusione.png
 coverImage: /img/inclusione.png
 metaAlignment: center
 date: 2021-12-22
+showDate: false
 categories:
 - inclusione
 tags:
