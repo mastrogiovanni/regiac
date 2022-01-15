@@ -2,9 +2,10 @@
 title: "Il PEI"
 thumbnailImagePosition: left
 autoThumbnailImage: false
-thumbnailImage: /img/pei.png
-coverImage: /img/PEI.png
+thumbnailImage: /img/PEI_crop.png
+coverImage: /img/PEI_crop.png
 metaAlignment: center
+coverSize: partial
 date: 2021-12-21
 showDate: false
 categories:

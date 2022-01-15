@@ -4,6 +4,7 @@ thumbnailImagePosition: left
 autoThumbnailImage: false
 thumbnailImage: /img/glo2.png
 coverImage: /img/glo2.png
+coverSize: partial
 metaAlignment: center
 date: 2021-12-21
 showDate: false

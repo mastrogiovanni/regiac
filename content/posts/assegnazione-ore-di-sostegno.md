@@ -4,6 +4,7 @@ thumbnailImagePosition: left
 autoThumbnailImage: false
 thumbnailImage: /img/lavagna-ore-sostegno2-1280x720.png
 coverImage: /img/lavagna-ore-sostegno2-1280x720.png
+coverSize: partial
 metaAlignment: center
 date: 2021-12-21
 showDate: false

@@ -4,6 +4,7 @@ thumbnailImagePosition: left
 autoThumbnailImage: false
 thumbnailImage: /img/inclusione.png
 coverImage: /img/inclusione.png
+coverSize: partial
 metaAlignment: center
 date: 2021-12-22
 showDate: false
