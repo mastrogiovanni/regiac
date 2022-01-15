@@ -2,8 +2,8 @@
 title: "Re.Ge.I."
 thumbnailImagePosition: top
 autoThumbnailImage: false
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
-coverImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
+thumbnailImage: /img/rete_genitori.png
+coverImage: /img/rete_genitori.png
 metaAlignment: center
 date: 2021-12-23
 showDate: false
