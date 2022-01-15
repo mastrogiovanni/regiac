@@ -19,7 +19,7 @@ title = "Re.Ge.I"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
-paginate = 7
+paginate = 10
 canonifyurls = true
 
 [permalinks]
@@ -121,7 +121,7 @@ canonifyurls = true
   # -----------
   # Description
   # -----------
-  description = "Re.G.I.A.C."
+  description = "Re.Ge.I"
 
   # ------------------
   # Syntax highlighter
